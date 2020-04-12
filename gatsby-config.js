@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'Blog',
-    author: 'Thomas Mathew',
+    title: 'Notes',
+    author: 'ThomasMathew',
     description: 'Personal blog by Thomas Mathew.',
-    siteUrl: 'https://github.com/thomas6188',
+    siteUrl: 'https://thomas6188.github.io/notes/',
     social: {
       twitter: '@6188',
     },
   },
-  pathPrefix: '/blog',
+  pathPrefix: '/notes',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -58,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `https://github.com/thomas6188`,
-        short_name: `https://github.com/thomas6188`,
+        name: `notes`,
+        short_name: `notes`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#d23636`,

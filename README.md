@@ -1,4 +1,4 @@
-# MyBlog
+# Notes
 
 My personal blog. Forked from [Overreacted.io](https://github.com/gaearon/overreacted.io). Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
 
