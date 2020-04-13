@@ -31,9 +31,9 @@ const HomeContentBlock = () => (
         <Card.Body>
           <Card.Title>Life</Card.Title>
           <Card.Text>
-            <p>Family above everything else.</p>
+            <p>Integrity over Honesty.</p>
             <p>Live and let live.</p>
-            <p>Laughter is the best medicine.</p>
+            <p>Money is a necessary evil.</p>
           </Card.Text>
           <Card.Link href={'blog/life/'}>Read More</Card.Link>
         </Card.Body>
