@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import Header from '../header/header'
-import profilePic from '../../components/profile-pic.jpg??version=1.0'
+import profilePic from '../../components/profile-pic.jpg?version=1.0'
 import styles from './homepage.module.css'
 import '../../assets/css/font-awesome.min.css'
 import '../../assets/css/bootstrap.min.css'
