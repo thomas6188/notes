@@ -7,7 +7,7 @@ const HomeContentBlock = () => (
     <div class="row">
       <Card className={styles.cardStyle}>
         <Card.Body>
-          <Card.Title>Work</Card.Title>
+          <Card.Title>💼 Work</Card.Title>
           <Card.Text>
             <p>Aspiring Architect.</p>
             <p>Tech Lead @Infosys.</p>
@@ -18,7 +18,18 @@ const HomeContentBlock = () => (
       </Card>
       <Card className={styles.cardStyle}>
         <Card.Body>
-          <Card.Title>Leisure</Card.Title>
+          <Card.Title>🏠 Life</Card.Title>
+          <Card.Text>
+          <p>Early to bed, early to rise.</p>
+            <p>Integrity over Honesty.</p>         
+            <p>Frugal Living.</p>
+          </Card.Text>
+          <Card.Link href={'#'}>Read More</Card.Link>
+        </Card.Body>
+      </Card>
+      <Card className={styles.cardStyle}>
+        <Card.Body>
+          <Card.Title>🎉 Leisure</Card.Title>
           <Card.Text>
             <p>Science and Technology.</p>
             <p>Food and Travel.</p>
@@ -27,17 +38,7 @@ const HomeContentBlock = () => (
           <Card.Link href={'#'}>Read More</Card.Link>
         </Card.Body>
       </Card>
-      <Card className={styles.cardStyle}>
-        <Card.Body>
-          <Card.Title>Life</Card.Title>
-          <Card.Text>
-            <p>Integrity over Honesty.</p>
-            <p>Live and let live.</p>
-            <p>Money is a necessary evil.</p>
-          </Card.Text>
-          <Card.Link href={'#'}>Read More</Card.Link>
-        </Card.Body>
-      </Card>
+      
     </div>
   </div>
 )

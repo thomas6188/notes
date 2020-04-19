@@ -23,25 +23,27 @@ export default function Homepage() {
             <h2>Software Engineer</h2>
 
             <ul className={styles.socialRibbon}>
-              <li><a target="_blank" title="Github" href="https://github.com/thomas6188"><i className="fa fa-2x fa-github"></i></a></li>
-              <li><a target="_blank" title="Twitter" href="https://twitter.com/thomas6188"><i className="fa fa-2x fa-twitter"></i> </a></li>
               <li><a target="_blank" title="Linkedin" href="https://www.linkedin.com/in/thomas6188"><i className="fa fa-2x fa-linkedin"></i></a></li>
+              <li><a target="_blank" title="Twitter" href="https://twitter.com/thomas6188"><i className="fa fa-2x fa-twitter"></i> </a></li>
+              <li><a target="_blank" title="Github" href="https://github.com/thomas6188"><i className="fa fa-2x fa-github"></i></a></li>
               <li><Link to={'/blog'} title="Blog"><i className="fa fa-2x fa-square"></i></Link></li>
             </ul>
             <hr />
           </div>
           <div className={styles.aboutMe}>
             <p>
-              Hello! Welcome to my personal blog.</p>
+              Hello there. Welcome to my personal blog 🙂 </p>
             <p>
-              I am a Software Engineer from Kerala, India. I am currently working as a Technology Lead with Infosys. I have 9+
-              years of experience in Microsoft stack, with focus on cloud and related technologies -
-              SharePoint Online, Office 365, Azure, SharePoint Server, C#, ASP.Net, and JavaScript.
+              I am a Software Engineer from Kerala, India. I graduated in 2010 with a bachelor's degree in Information Technology.
+              I started my career as a SharePoint Developer. I now focus on helping customers build a Modern Workplace using Microsoft SAAS and Cloud offerings.
               </p>
 
           </div>
           <div id="homeContent">
             <HomeContentBlock></HomeContentBlock>
+          </div>
+          <div id="homePageFooter">
+           {/*  <p>Inspired by . Built using React and Gatsby. Hosted on Github.</p> */}
           </div>
         </div>
       </div>

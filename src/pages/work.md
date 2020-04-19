@@ -1,59 +1,57 @@
 ---
-title: Work Experience
+title: Work
 date: '2018-12-24'
 spoiler: Yet to write.
 ---
 
-**Current Position:** Technology Lead (SharePoint, Office 365, and Azure) at ***Infosys***
+
+
+<ins>_What is my work experience?_</ins> 
+
+I started my career as a SharePoint developer. I have 9+ years of experience in Microsoft stack, with focus on cloud and related technologies- SharePoint Online, Office 365, Azure, SharePoint Server, Dot Net, and JavaScript.
 
 <br>
 
-<ins>_Roles and Responsibilities_</ins>
+<ins>_About my work_</ins> 
 
-Design, Transform, Develop a Modern Workplace leveraging Microsoft Office 365 and Azure.
+I currently work as a Tech Lead at Infosys. I am part of Workplace Transformation team that helps customers build a Modern Workplace using Microsoft SAAS and Cloud offerings.  
 
-Develop Intranets and Portal solutions by studying the business requirements.
+<br>
 
-Office 365 roll-out and enablement (setup and configuration) for greenfield projects.
+<ins>_What are my Roles and Responsibilities?_</ins>
 
-SharePoint On-Prem to Office 365 migration.
+Design and Develop Modern Workplace solutions such as Intranets, Content Management, and Collaboration Portals, leveraging SharePoint, Office 365, and Azure.
 
-Application support for Office 365 and SharePoint Server.
+Participate in RFPs and Design Reviews by providing ideas, feedback, and solutions. Interact with clients to understand the business requirements and provide the right solution.
 
-Participate in design reviews by providing ideas, feedback, and solutions.
+Implement SharePoint On-Premise to Office 365 migration, Office 365 roll-out and enablement (setup and configuration) for greenfield projects.
 
 Guide peers in understanding SharePoint and related technologies.
-
+<br>
 <br>
 
-<ins>_Development_</ins>
+<ins>_What are some of the key areas that I have worked on?_</ins>
 
-SharePoint - Framework (SPFx) Apps, SharePoint Add-Ins, Server Side Components.
+**SharePoint and Office 365**  
 
-Power Platform - Power Automate and Power Apps.
+SharePoint Framework (SPFx) Apps, Office UI Fabric, PnP JS, Single Page Apps, SharePoint Add-Ins, Site Provisioning, Microsoft Groups, Modern Team and Communication Sites, Teams, and Planner. Power Platform- Power Automate and Power Apps.
 
-Azure - Logic Apps, Azure Functions, WebHooks, App Services, Web Jobs, Apps , Graph APIs.
+**Azure**
 
-Office 365 - Groups, Modern Sites, Planner, and Teams. Classic and Modern Site Provisioning.
+Graph APIs, Logic Apps, Azure Functions, Event Hubs, App Services, and Web Jobs.
 
-Web - JavaScript, Bootstrap, jQuery, React JS, Angular JS(1.x). Basic hands-on in TypeScript, Angular, and Vue JS.
+**Web Developement** 
 
+JavaScript, Bootstrap, jQuery, React JS, Angular JS(1.x). Basic hands-on in TypeScript, Angular, and Vue JS.
+
+**Migration Tools** 
+
+Sharegate, Metalogix. 
+<br>
 <br>
 
-<ins>_Administration_</ins>
+<ins>_Apps and Tools that I use_</ins>
 
-SharePoint and Office 365 rollout, Configuration, and Governance for greenfield projects.
-
-SharePoint On-Prem to Office 365 migration.
-
-Migration Tools - Sharegate, Metalogix. 
-
-
-<br>
-
-
-<ins>_Apps and related Tools_</ins>
-
-Visual Studio, VS Code, Postman, PowerShell, and JIRA.
+VS Code, Visual Studio, Postman, PowerShell, and JIRA.
 
 <br><br>
