@@ -21,8 +21,8 @@ const HomeContentBlock = () => (
           <Card.Title>🏠 Life</Card.Title>
           <Card.Text>
           <p>Early to bed, early to rise.</p>
-            <p>Integrity over Honesty.</p>         
-            <p>Frugal Living.</p>
+            <p>Optimistic and Goal oriented.</p>         
+            <p>Live an let live.</p>
           </Card.Text>
           <Card.Link href={'#'}>Read More</Card.Link>
         </Card.Body>
