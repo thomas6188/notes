@@ -18,17 +18,6 @@ const HomeContentBlock = () => (
       </Card>
       <Card className={styles.cardStyle}>
         <Card.Body>
-          <Card.Title>🏠 Life</Card.Title>
-          <Card.Text>
-          <p>Early to bed, early to rise.</p>
-            <p>Optimistic and Goal oriented.</p>         
-            <p>Live an let live.</p>
-          </Card.Text>
-          <Card.Link href={'#'}>Read More</Card.Link>
-        </Card.Body>
-      </Card>
-      <Card className={styles.cardStyle}>
-        <Card.Body>
           <Card.Title>🎉 Leisure</Card.Title>
           <Card.Text>
             <p>Science and Technology.</p>
@@ -38,6 +27,18 @@ const HomeContentBlock = () => (
           <Card.Link href={'#'}>Read More</Card.Link>
         </Card.Body>
       </Card>
+      <Card className={styles.cardStyle}>
+        <Card.Body>
+          <Card.Title>🏠 Life</Card.Title>
+          <Card.Text>
+          <p>Early to bed, early to rise.</p>
+            <p>Optimistic and Goal oriented.</p>         
+            <p>Live and let live.</p>
+          </Card.Text>
+          <Card.Link href={'#'}>Read More</Card.Link>
+        </Card.Body>
+      </Card>
+      
       
     </div>
   </div>

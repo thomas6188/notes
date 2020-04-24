@@ -47,7 +47,7 @@ class BlogPostTemplate extends React.Component {
 
         {/* Post Footer */}
         <p>
-          <Link to={'/blog'}>Back to Blog list</Link>
+          <Link to={'/'}>Home</Link>
          
         </p>
         <hr style={{ marginBottom: rhythm(1), }} />
