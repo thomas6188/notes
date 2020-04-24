@@ -43,7 +43,7 @@ Graph APIs, Logic Apps, Azure Functions, Event Hubs, App Services, and Azure Dev
 
 **Web Developement** 
 
-JavaScript, Bootstrap, jQuery, React JS, Angular JS(1.x). Basic hands-on in TypeScript, Angular, and Vue JS.
+JavaScript, React JS, Angular JS, TypeScript, Angular, and Vue JS, and Bootstrap.
 
 **Migration Tools** 
 
