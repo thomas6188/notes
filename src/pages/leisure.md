@@ -1,6 +1,6 @@
 ---
 title: Leisure
-date: '2018-12-24'
+date: '2019-01-03'
 spoiler: Yet to write.
 ---
 
