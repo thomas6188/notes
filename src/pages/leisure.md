@@ -9,6 +9,7 @@ Hi there. This blog post summarizes what I do in my leisure time. Nothing fancy,
 <br>
 
 ##### <ins>_Science and Tech_</ins>
+<br>
 
 I have always been fascinated by Science and Technology. My love for tech started (during my high school days) when I read a magazine called The Chip. While growing up, I didn't have access to Internet, so this magazine was my gateway to the world of gadgets, apps, and technology in general. The first personal computer I had was a Pentium 3 Desktop, with 48 MB RAM. This was my lab for trying out a new OS, apps, and games. I still remember making a scene 😭 at home so that my parents can buy me a 16 MB RAM module because Win XP won't install with anything less 😞.   
 
@@ -33,6 +34,7 @@ E-Reader: Amazon Kindle Paperwhite (2014).
 <br>
 
 ##### <ins>_Food and Travel_</ins>
+<br> 
 
 One thing I believe when it comes to Food and Travel is that it should never be a forced activity. It is best enjoyed alone or with people you like. Instagram or Facebook posts shouldn't be the deciding factor, your fondness for the people, place, and food should.  
 <br> 

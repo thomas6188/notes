@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card } from 'react-bootstrap'
-import styles from './homecontent.module.css?version=1.0'
+import styles from './homecontent.module.css?version=1.1'
 
 const HomeContentBlock = () => (
   <div className="container">
@@ -24,7 +24,7 @@ const HomeContentBlock = () => (
             <p>Food and Travel.</p>
             <p>Books, Movies, and TV Shows.</p>
           </Card.Text>
-          <Card.Link href={'blog/leisure'}>Read More</Card.Link>
+          <Card.Link href={'blog/leisure/'}>Read More</Card.Link>
         </Card.Body>
       </Card>
       <Card className={styles.cardStyle}>
