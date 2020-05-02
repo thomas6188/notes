@@ -24,7 +24,7 @@ const HomeContentBlock = () => (
             <p>Food and Travel.</p>
             <p>Books, Movies, and TV Shows.</p>
           </Card.Text>
-          <Card.Link href={'blog/leisure/'}>Read More</Card.Link>
+          <Card.Link href={'blog/leisure'}>Read More</Card.Link>
         </Card.Body>
       </Card>
       <Card className={styles.cardStyle}>
