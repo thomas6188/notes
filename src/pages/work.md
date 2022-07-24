@@ -6,9 +6,9 @@ spoiler: Yet to write.
 
 ##### <ins>_About my work_</ins>
 
-I am a Tech Lead at Infosys. I have 9+ years of experience in SharePoint and Office 365 space, with focus on cloud and related technologies- SharePoint Online, Office 365, Azure, SharePoint Server, Dot Net, and JavaScript.
+I am a Technical Architect at Tata Consultancy Service. I have 9+ years of experience in SharePoint and Office 365 space, with focus on cloud and related technologies- SharePoint Online, Office 365, Azure, SharePoint Server, Dot Net, and JavaScript.
 
-At Infosys, I am part of Microsoft Workplace Transformation team that helps customers build a Modern Workplace using Microsoft SAAS and Cloud offerings.
+At TCS, I am part of Microsoft Digital Workplace team that helps customers build a Modern Workplace using Microsoft SAAS and Cloud offerings.
 
 I started my career as a SharePoint developer in 2011. Back in those days, everything was on-prem, and WSP Builder was the goto extension😑. Building a custom component required a SharePoint Server, not only for deployment but also for developement. I still have the VDI files of SP 2007, 2010, and 2013 dev servers in my backup drive😃.
 <br>

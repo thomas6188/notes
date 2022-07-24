@@ -9,8 +9,8 @@ const HomeContentBlock = () => (
         <Card.Body>
           <Card.Title>💼 Work</Card.Title>
           <Card.Text>
-            <p>Aspiring Architect.</p>
-            <p>Tech Lead @Infosys.</p>
+            <p>Technical Architect.</p>
+            <p>Associate Consultant @TCS.</p>
             <p>SharePoint, Office 365, and Azure.</p>
           </Card.Text>
           <Card.Link href={'blog/work'}>Read More</Card.Link>
